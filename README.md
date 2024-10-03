@@ -37,3 +37,7 @@
 ## $${\color{blue}第 9 題 M1-Q31 三角形分類 }$$
 
 <img width="875" alt="Screenshot 2024-10-03 at 8 57 39 AM" src="https://github.com/user-attachments/assets/baca632a-49a9-4b86-8ad8-c8a2c59dbe0e">
+
+## $${\color{blue}第 10 題 M1-Q32 數字價格轉文字價格 }$$
+
+<img width="868" alt="Screenshot 2024-10-03 at 9 14 59 AM" src="https://github.com/user-attachments/assets/2a91afee-fef4-4cae-b527-14685f34ed5f">
